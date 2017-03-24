@@ -1,0 +1,1 @@
+This is a simple application ( in progress) for storing and interacting with records of books (novels and textbooks and such).  I am writing this for the express purpose of practicing programming in Java.
